@@ -4,3 +4,32 @@ body {
   background-size: cover;
   background-position: center;
 }
+
+#Pristinepaints {
+  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  color : gold;
+  border : thick double green
+}
+
+#webworks-job {
+  /* font-family: 'Bebas Neue'; */
+  font-family: 'Oswald';
+  color : blue;
+  border : dashed red;
+}
+
+#google {
+  font-family: "Lucida Console", "Courier New", monospace;
+  color : green;
+  border: solid;
+  border-color: white;
+}
+
+header.sharefont {
+  /* font-family: 'Bebas Neue', sans-serif; */
+  font-family: 'Dancing Script', cursive;
+  /* font-family: 'Oswald', sans-serif;  */
+
+color: black;
+}
